@@ -20,5 +20,5 @@ S3 → Lambda (Textract) → DynamoDB → SES Email
 - Costi: 0€ (Free Tier)
 - **Skills dimostrate**: Serverless, Event-driven, AI/ML base, Monitoring
 
-**Codice Lambda**: lambda_function.py (copia dal tutorial)  
+**Codice Lambda**: projects/intermediate/project3/lambda-code/lambda.py
 **Screenshot AWS Console**: ![Console](screenshots/console.png)
