@@ -21,4 +21,3 @@ S3 → Lambda (Textract) → DynamoDB → SES Email
 - **Skills dimostrate**: Serverless, Event-driven, AI/ML base, Monitoring
 
 **Codice Lambda**: projects/intermediate/project3/lambda-code/lambda.py
-**Screenshot AWS Console**: ![Console](screenshots/console.png)
