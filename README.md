@@ -1,4 +1,4 @@
-automatizza la gestione receipt per ridurre data entry e errori umani (Serverless + AI)
+Automatizza la gestione receipt per ridurre data entry e errori umani (Serverless + AI)
 Pipeline serverless che automatizza l’elaborazione di scontrini usando Amazon Textract, Lambda, DynamoDB, S3 e SES.
 
 Perchè questo progetto è utile all'azienda?
@@ -8,6 +8,8 @@ una funzione Lambda usa Amazon Textract per estrarre i dati chiave (data, import
 Infine, Amazon SES invia una email di riepilogo all’utente.  
 È pensato per contabilità, note spese e processi finance ripetitivi.
 
+- Riduce data entry manuale del 90%, processa 100+ documenti/giorno a 0,001€/unit con Textract AI + DynamoDB.
+- 40h/mese risparmiate su riconciliazioni manuali
 
 Tech Stack
 
