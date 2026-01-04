@@ -1,9 +1,1 @@
-# Samuele – Cloud Projects
 
-Raccolta di progetti Cloud (AWS) per il mio portfolio.
-
-## Progetti
-
-| Progetto | Stack principale | Descrizione breve | Link |
-|----------|------------------|-------------------|------|
-| Automated Receipt Processing | AWS (S3, Textract, DynamoDB, SES, Lambda) | Pipeline serverless che automatizza l’elaborazione degli scontrini. | [/receipt-processing](./receipt-processing) |
